@@ -1,26 +1,24 @@
-# Pau Aranega Bellido - Projects
+# Pau Aranega Bellido - Software Engineering Projects
 
 ## About Me
 
-Hi! I'm **Pau Aranega Bellido**, a **Software Engineer** with a passion for technology and problem-solving. I graduated **Cum Laude** in **Computer Engineering** from **Saint Louis University - Madrid** and I'm currently finishing my **Master's in Marketing** at the same university.
+Hello, I'm **Pau Aranega Bellido**, a **Software Engineer** with a strong foundation in technology, algorithm design, and machine learning. I graduated **Cum Laude** in **Computer Engineering** from **Saint Louis University - Madrid** and I'm currently finishing my **Master's in Marketing** at the same institution.
 
-I specialize in **software development**, **machine learning**, and **algorithms**. In my free time, I enjoy **gym**, **chess**, **poker**, and exploring **finance**.
+I am passionate about solving complex problems, developing innovative solutions, and exploring new technologies. When I'm not coding, I enjoy working on personal projects and engaging in activities like **chess ♟️**, **gym 💪**, **poker ♠️**, and **finance 📊**.
 
 ## Projects
 
-Here are some of my personal projects:
+### 🖥️ **Shell**
+A custom-built **shell** to gain a deeper understanding of how operating systems manage processes, memory, and input/output operations.
 
-### 1. **Shell**  
-A custom-built shell to better understand how operating systems handle processes, memory, and I/O operations.
+### 💻 **Code Interpreter**
+An interpreter that executes code written in a custom language, which allowed me to explore compiler design and language implementation.
 
-### 2. **Code Interpreter**  
-An interpreter that executes code written in a custom language. This project allowed me to deepen my understanding of compilers and language design.
+### 🔍 **A* Algorithm Visualization**
+A visualization tool for the **A\*** pathfinding algorithm that demonstrates its ability to find the shortest path on a grid with efficiency.
 
-### 3. **A* Algorithm Visualization**  
-A visualization tool for the **A\*** pathfinding algorithm. It demonstrates the algorithm's efficiency in finding the shortest path through a grid.
-
-### 4. **Machine Learning Trading Bot**  
-A **bot for stock trading** that utilizes **machine learning** to make data-driven decisions for buying and selling assets.
+### 🤖 **Machine Learning Trading Bot**
+A **trading bot** that applies **machine learning** techniques to make real-time stock trading decisions based on historical data and predictions.
 
 ## Skills & Technologies
 
@@ -29,25 +27,24 @@ A **bot for stock trading** that utilizes **machine learning** to make data-driv
 - **Tools**: Git, Docker, Jenkins
 - **Frameworks**: Flask, React
 
-## Experience
+## Professional Experience
 
-- **Software Engineer at Telefónica**  
-  Contributed to various software projects, optimizing solutions and ensuring quality through best practices.
+### 💼 **Software Engineer at Telefónica**
+Contributed to various enterprise-level projects, optimizing performance, enhancing code quality, and adhering to industry best practices.
 
-- **Software Engineer Intern at Moodle**  
-  Worked on the development of open-source e-learning software, focusing on improving user experience and performance.
+### 📚 **Software Engineer Intern at Moodle**
+Worked on improving the performance and user experience of open-source e-learning platforms used by thousands of institutions worldwide.
 
-- **Software Engineer at Banco Santander**  
-  Developed solutions for the banking sector, ensuring security, scalability, and performance.
+### 🏦 **Software Engineer at Banco Santander**
+Developed secure, scalable, and high-performance solutions for the banking industry, with a focus on customer satisfaction and system reliability.
 
 ## Contact
 
-Feel free to reach out to me through my GitHub or LinkedIn:
+Feel free to reach out for collaboration or inquiries:
 
-- GitHub: [@pauaranega](https://github.com/pauaranega)
-- LinkedIn: [Pau Aranega Bellido](https://www.linkedin.com/in/pauaranega)
+- **GitHub**: [@pauaranega](https://github.com/pauaranega)
+- **LinkedIn**: [Pau Aranega Bellido](https://www.linkedin.com/in/pauaranega)
 
 ## License
 
-This repository is licensed under the MIT License. See LICENSE for more information.
-
+This repository is licensed under the **MIT License**. See [LICENSE](./LICENSE) for more details.
