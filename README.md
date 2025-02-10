@@ -37,10 +37,6 @@ Visit my [portfolio!](https://pauaranegabellido.netlify.app/)
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -76,30 +72,4 @@ Visit my [portfolio!](https://pauaranegabellido.netlify.app/)
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
 ----
