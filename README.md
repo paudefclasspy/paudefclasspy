@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 📫 How to Reach Me
 - **Email:** pauaranega20@gmail.com
-- **LinkedIn:** [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/pauaranegabellido/))
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pauaranegabellido/)
 
 ## ⚡ Fun Fact
 - I hate PHP.
