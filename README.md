@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I'm a software engineer passionate about building scalable applications and solving complex problems. With experience in banking systems and telecommunications, I specialize in creating robust, secure solutions that make a difference.
+I'm a software engineer passionate about building scalable applications and solving complex problems. I specialize in creating robust, secure solutions that make a difference.
 
 Visit my [portfolio!](https://pauaranegabellido.netlify.app/)  
   
